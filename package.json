@@ -15,5 +15,9 @@
     "formulahendry.code-runner",
     "ms-vscode.live-server",
     "foxundermoon.shell-format"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuanDD123/vscode_extension_pack_development"
+  }
 }
