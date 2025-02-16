@@ -1,0 +1,19 @@
+{
+  "name": "extension-pack-development",
+  "displayName": "Extension Pack Development",
+  "description": "开发工具包",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "github.copilot",
+    "github.copilot-chat",
+    "formulahendry.code-runner",
+    "ms-vscode.live-server",
+    "foxundermoon.shell-format"
+  ]
+}
