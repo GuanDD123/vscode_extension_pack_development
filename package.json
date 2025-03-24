@@ -3,7 +3,7 @@
   "name": "extension-pack-development",
   "displayName": "Extension Pack Development",
   "description": "开发工具包",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.97.0"
   },
